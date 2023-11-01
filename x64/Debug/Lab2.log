@@ -1,0 +1,4 @@
+﻿  CNumber.cpp
+C:\Users\pow-j\Documents\MojeDokumenty\Politechnika\Semestr III\Techniki Efektywnego Programowania\Laboratorium\Lab2\CNumber.cpp(23,34): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+C:\Users\pow-j\Documents\MojeDokumenty\Politechnika\Semestr III\Techniki Efektywnego Programowania\Laboratorium\Lab2\CNumber.cpp(35,31): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Lab2.vcxproj -> C:\Users\pow-j\Documents\MojeDokumenty\Politechnika\Semestr III\Techniki Efektywnego Programowania\Laboratorium\Lab2\x64\Debug\Lab2.exe
