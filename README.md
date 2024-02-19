@@ -1,10 +1,10 @@
 # CNumber
-Second project on TEP
 
-Oprogramuj klasę CNumber, która przechowuje kolejne cyfry liczby całkowitej w
-dynamicznie alokowanej tablicy zmiennych typu int. Oprogramuj operatory: ‘+’, ’-‘, ‘*’ i ‘/’. Każdy z
-operatorów ma pobierać jako argument inny obiekt klasy CNumber. Pamiętaj, że
-obiekty klasy CNumber mogą przechowywać bardzo duże liczby.
-Uwagi:
-6.1. Rozwiń klasę o przechowywanie wartości ujemnych
-6.2. Dzielenie ma zwracać część całkowitą wyniku
+(second Effective Programming Techniques project)
+
+- The program stores subsequent digits of an integer in a dynamically allocated array of int type variables.
+- Supports operators: _+, -, *, /_.
+- A class created to store very large numbers.
+- Works on negative values.
+- Division returns the integer part of the result.
+  
